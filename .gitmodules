@@ -14,6 +14,7 @@
 [submodule "file_generation_service_repository"]
 	path = file_generation_service_repository
 	url = https://github.com/Lv-447-Python/file_generation_service_repository.git
+	branch = develop
 [submodule "file_sharing_service_repository"]
 	path = file_sharing_service_repository
 	url = https://github.com/Lv-447-Python/file_sharing_service_repository.git
