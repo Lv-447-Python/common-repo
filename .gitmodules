@@ -1,24 +1,28 @@
 [submodule "file-service-repository"]
 	path = file-service-repository
 	url = https://github.com/Lv-447-Python/file-service-repository.git
+    branch = last_demo
 [submodule "API-Gateway"]
 	path = API-Gateway
 	url = https://github.com/Lv-447-Python/API-Gateway.git
+	branch = last_demo
 [submodule "history-service-repository"]
 	path = history-service-repository
 	url = https://github.com/Lv-447-Python/history-service-repository.git
+	branch = last_demo
 [submodule "user-service-repository"]
 	path = user-service-repository
 	url = https://github.com/Lv-447-Python/user-service-repository.git
-	branch = docker-container
+	branch = last_demo
 [submodule "file_generation_service_repository"]
 	path = file_generation_service_repository
 	url = https://github.com/Lv-447-Python/file_generation_service_repository.git
+	branch = last_demo
 [submodule "file_sharing_service_repository"]
 	path = file_sharing_service_repository
 	url = https://github.com/Lv-447-Python/file_sharing_service_repository.git
-	branch = develop
+	branch = last_demo
 [submodule "frontend-components"]
 	path = frontend-components
 	url = https://github.com/ss-m-ivanov/frontend-components.git
-	branch = responses-test
+	branch = last_demo
